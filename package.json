@@ -1,7 +1,7 @@
 {
-  "name": "sandbox",
+  "name": "atl-test",
   "version": "1.0.0",
-  "description": "Sandbox project template for various purposes",
+  "description": "Test project",
   "private": true,
   "scripts": {
     "develop": "gatsby develop",

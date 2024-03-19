@@ -1,10 +1,10 @@
-# Sandbox
+# Test Project
 
-![status](https://github.com/laksby/sandbox/actions/workflows/gatsby.yml/badge.svg?branch=main)
+![status](https://github.com/laksby/atl-test/actions/workflows/gatsby.yml/badge.svg?branch=main)
 
-This repository contains source code for sandbox template.
+This repository contains test project.
 
-[Link to Preview](https://laksby.github.io/sandbox/)
+[Link to Preview](https://laksby.github.io/atl-test/)
 
 ## Setup
 
@@ -12,9 +12,9 @@ Clone repository
 
 ```bash
 # ssh
-git clone git@github.com:laksby/sandbox.git
+git clone git@github.com:laksby/atl-test.git
 # https
-git clone https://github.com/laksby/sandbox.git
+git clone https://github.com/laksby/atl-test.git
 ```
 
 Install dependencies
